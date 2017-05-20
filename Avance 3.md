@@ -15,6 +15,7 @@ He tenido algunos problemas con los datos, pero el lunes me quede de ver con Aza
 | Instalar RAxML | Listo |  
 | Instalar PAUP | Listo |
 | Análisis de máxima verosimilitud | Pendiente |  
+|[README](https://github.com/Israelornis/ProyectoFinalBioinf2017-II/blob/master/README.md) | <span style="color:red"> **Pendiente**</span> |
 
 ### Artículos leídos
 
