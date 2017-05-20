@@ -8,16 +8,15 @@ Este repositorio contiene datos tomados genómicos (RADseq) pre-procesados en fo
 
 En la carpeta **bin** se encuentran los scripts para:
  
-1.	Realizar el llamado de los SNP´s y obtener estadísticos de diversidad Pi, FST y heterocigocidad con pipelines de Stacks ver.1.46; **Script_Stacks**
-2.	Hacer análisis comparativos de los estadísticos de genética de poblaciones entre especies y entre poblaciones con R ver. 3.3.0; **Script_RGenPob**
-3.	Hacer un PCA con SNPRelate para separar poblaciones; **Script_SNPRelate** 
-4.	hacer análisis de estructura con FastStructure **Script_FStr**
+1.	Realizar el llamado de los SNP´s y obtener los archivos de Ipyrad ver.0.6.19; con el comando **ipyrad -p params-ejemplo.txt -s 123**
+2.	Hacer análisis comparativos de los estadísticos de los estadísticos descriptivos de los outputs arrojados por Ipyrad empleando distintos parámetros con R ver. 3.3.3.
+3.	Hacer un árbol de máxima verosimilitud empleando RaxML. 
+4.	Hacer un árbol no enraizado empleando SVDQuartets.
  
 En la carpeta **data** se encuentra:
 
-*	Una submuestra de los datos .bam que se analizaron con la pipeline de Stacks (**Nota:** Estos datos son solo una parte de los datos que se utilizaron para obtener los resultados que se muestran en el *Resumen*. Sin embargo la Script de Stacks funciona con esta submuestra y con los datos totales) 
-*	Los archivos "popmap" y "popmapNS" con información referente a la población de procedencia de cada muestra, el primero separando por especies y el segundo separado por especie y por población norteña y sureña para el Script_Stacks. 
-*	Un archivo "pob" necesario para el Script_SNPRelate.
+*	Una submuestra de los datos .fastq que se analizaron con el programa bioinformático Ipyrad (**Nota:** Estos datos son solo una parte de los datos que se utilizaron para obtener los resultados que se muestran en el *Resumen*. Sin embargo la Script de Ipyrad funciona con esta submuestra y con los datos totales) 
+*	Los archivos en formato phylip para analizar en varios programas de inferencia filogenética "phylip" y "nexus" con información referente a lo datos obtenidos en Ipyrad y la número de pares de bases según el parámetro.
 
 
 ____
