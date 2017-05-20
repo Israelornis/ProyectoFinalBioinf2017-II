@@ -21,7 +21,7 @@ En la carpeta **data** se encuentra:
 
 
 ____
-**Bibliografia**
+**Referencias**
 
 <sup>1</sup>Manthey JD, Campillo LC, Burns KJ, Moyle RG (2016) Comparison of target-capture and restriction-site associated DNA sequencing for phylogenomics: a test in cardinalid tanagers (Aves, genus: Piranga). Systematic Biology 65(4): 640-650. http://dx.doi.org/10.1093/sysbio/syw005
 
