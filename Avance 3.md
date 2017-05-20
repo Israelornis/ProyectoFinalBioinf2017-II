@@ -4,7 +4,7 @@
 Anteriormente (ver Avances 1 y 2) yo estaba interesado en hacer análsis de genética de poblaciones usando los datos genómicos (ddRAD) de *Ammodramus nelsoni* y *Ammodramus caudacutus* de Walsh et al. (2017) disponibles en Dryad. No obstante despues de una revisión en el material suplementario y en el repositorio de Dryad no se encuentran disponibles los barcode, esenciales para los análisis en el programa bioinformático Ipyrad. Bajo esta premisa, decidí cambiar de datos empleando los datos genómicos del género *Piranga*  (RAD-seq) de Manthey et al. (2016), enfocandome en análisis de filogenómica y ya no de genética de poblaciones.
 He tenido algunos problemas con los datos, pero el lunes me quede de ver con Azalea para ver que es lo que está fallando.
 
-**Tipo de datos:** Ddatos genómicos del género *Piranga*  (RAD-seq) de Manthey et al. (2016) disponibles en Dryad
+**Tipo de datos:** Ddatos genómicos del género *Piranga*  (RAD-seq) de Manthey et al. (2016) disponibles en Genbank (https://www.ncbi.nlm.nih.gov/sra/?term=Piranga), con algunos datos descriptivos en Dryad.
 
 | Actividad     | Estado |
 | ------------- |:-------------:|
@@ -15,7 +15,7 @@ He tenido algunos problemas con los datos, pero el lunes me quede de ver con Aza
 | Instalar RAxML | Listo |  
 | Instalar PAUP | Listo |
 | Análisis de máxima verosimilitud | Pendiente |  
-|[README](https://github.com/Israelornis/ProyectoFinalBioinf2017-II/blob/master/README.md) | <span style="color:red"> **Pendiente**</span> |
+|[README](https://github.com/Israelornis/ProyectoFinalBioinf2017-II/blob/master/README.md) | <span style="color:red"> Pendiente</span> |
 
 ### Artículos leídos
 
