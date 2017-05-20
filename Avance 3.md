@@ -20,6 +20,8 @@
 
 + Harvey, M.G. y R.T. Brumfield. 2015. Genomic variation in a widespread Neotropical bird (*Xenops minutus*) reveals divergence, population expansion, and gene flow, Molecular Phylogenetics and Evolution 83(2014): 305-316. doi: http://dx.doi.org/10.1016/j.ympev.2014.10.023
 
++ Manthey, J.D., L.C. Campillo, K.J. Burns y R.G. Moyle. 2016. Comparison of target-capture and restriction-site associated DNA sequencing for phylogenomics: a test in cardinalid tanagers (Aves, genus: *Piranga*). Systematic Biology 65(4): 640-650. http://dx.doi.org/10.1093/sysbio/syw005
+
 + Mason, N.A. y S.A. Taylor. 2015. Differentially expressed genes match bill morphology and plumage despite largely homogenous genomes in a Holarctic songbird. Molecular Ecology 24(12): 3009-3025. http://dx.doi.org/10.1111/mec.13140
 
 + Oswald, J.A., I. Overcast, W.M. Mauck III, M.J. Andersen y B.T. Smith. 2017. Isolation with asymmetric gene flow during the nonsynchronous divergence of dry forest birds. Molecular Ecology 26(5): 1386-1400. http://dx.doi.org/10.1111/mec.14013
