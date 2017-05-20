@@ -7,9 +7,10 @@
 | ------------- |:-------------:|
 | Descargar datos del repositorio Dryad     | Listo  |
 | Montar un volumen en docker para analizar los datos     | Listo   | 
-| Instalar ipyrad | Pendiente |  
+| Instalar ipyrad | Listo |  
 | Análisis de Fst, Pi, Estimadores de diversidad | Pendiente | 
-| Instalar RAxML | Listo |    
+| Instalar RAxML | Listo |  
+| Instalar PAUP | Listo |
 | Análisis de máxima verosimilitud | Pendiente |  
 
 ### Artículos leídos
