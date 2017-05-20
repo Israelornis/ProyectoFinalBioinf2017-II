@@ -28,6 +28,8 @@
 
 + Parchman, T.L., C.A. Buerkle, V. Soria-Carrasco y C.W. Benkman. 2016. Genome divergence and diversification within a geographic mosaic of coevolution. Molecular Ecology 25(22): 5705-5718. http://dx.doi.org/10.1111/mec.13825
 
++ Toews, D.P.L., L. Campagna, S.A. Taylor, C.N. Balakrishnan, D.T. Baldassarre, P.E. Deane-Coe, M.G. Harvey, D.M. Hooper, D.E. Irwin, C.D. Judy, N.A. Mason, J.E. McCormack, K.G. McCracken, C.H. Oliveros, R.J. Safran, E.S.C. Scordato, K.F. Stryjewski, A. Tigano, J.A.C. Uy y B.M. Winger. 2016. Genomic approaches to understanding population divergence and speciation in birds. The Auk 133(1): 13-30. http://dx.doi.org/10.1642/AUK-15-51.1
+
 + Walsh, J., I.J. Lovette, V. Winder, C.S. Elphick, B.J. Olsen, G. Shriver y A.I. Kovach. 2017. Subspecies delineation amid phenotypic, geographic and genetic discordance in a songbird. Molecular Ecology 26(5): 1242-1255. http://dx.doi.org/10.1111/mec.14010
 
 
