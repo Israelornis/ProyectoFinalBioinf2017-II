@@ -4,7 +4,7 @@
 - Por: Israel Moreno-Contreras
 __________
 
-Este repositorio contiene datos tomados genómicos (RADseq) pre-procesados y mapeados en formato .fastq de varios miembros del género *Piranga*, tomados de Manthey et al. (2016)<sup>1 2</sup> y disponibles en Genbank ("https://www.ncbi.nlm.nih.gov/sra/?term=Piranga"), con algunos outputs de interes y datos descriptivos en Dryad. También cuenta con algunos de inferencia filogenética (Máxima verosimilitud, Parsimonia, y SVD quartets) empleando distintos parametros en ipyrad.
+Este repositorio contiene datos tomados genómicos (RADseq) pre-procesados en formato .fastq de varios miembros del género *Piranga*, tomados de Manthey et al. (2016)<sup>1 2</sup> y disponibles en Genbank ("https://www.ncbi.nlm.nih.gov/sra/?term=Piranga"), con algunos outputs de interes y datos descriptivos en Dryad. También cuenta con algunos análisis de inferencia filogenética (Máxima verosimilitud, Parsimonia, y SVD quartets) empleando distintos parametros en ipyrad.
 
 En la carpeta **bin** se encuentran los scripts para:
  
