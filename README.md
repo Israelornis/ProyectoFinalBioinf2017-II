@@ -1,7 +1,7 @@
 ### ARCHIVO EN CONSTRUCCIÓN
 
 # Proyecto_Final-Bioinf2017-II
-Por Israel Moreno-Contreras
+- Por Israel Moreno-Contreras
 __________
 
 Este repositorio contiene datos tomados genómicos (RADseq) pre-procesados y mapeados en formato .fastq de varios miembros del género *Piranga*, tomados de Manthey et al. (2016)<sup>1 2</sup> disponibles en Dryad ("Jezkova_2014_Dipodomys_Mapped_Reads.tar.bz2") y un análisis de Genética de poblacionesde los mismos
