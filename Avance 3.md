@@ -10,8 +10,7 @@ He tenido algunos problemas con los datos, pero el lunes me quede de ver con Aza
 | ------------- |:-------------:|
 | Descargar datos del repositorio Dryad     | Listo  |
 | Montar un volumen en docker para analizar los datos     | Listo   | 
-| Instalar ipyrad | Listo |  
-| Análisis de Fst, Pi, Estimadores de diversidad | Pendiente | 
+| Instalar ipyrad | Listo |   
 | Instalar RAxML | Listo |  
 | Instalar PAUP | Listo |
 | Análisis de máxima verosimilitud | Pendiente |  
