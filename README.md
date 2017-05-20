@@ -1,10 +1,10 @@
 ### ARCHIVO EN CONSTRUCCIÓN
 
 # Proyecto_Final-Bioinf2017-II
-Por Madisson Azucena Luna Bárcenas 
+Por Israel Moreno-Contreras
 __________
 
-Este repositorio contiene datos tomados RADseq pre-procesados y mapeados en formato .bam de *Dipodomys merriami* y *D. deserti*, tomados de Jezckova et al. 2015<sup>1 2</sup> disponibles en Dryad ("Jezkova_2014_Dipodomys_Mapped_Reads.tar.bz2") y un análisis de Genética de poblacionesde los mismos
+Este repositorio contiene datos tomados genómicos (RADseq) pre-procesados y mapeados en formato .fastq de varios miembros del género *Piranga*, tomados de Manthey et al. (2016)<sup>1 2</sup> disponibles en Dryad ("Jezkova_2014_Dipodomys_Mapped_Reads.tar.bz2") y un análisis de Genética de poblacionesde los mismos
 
 En la carpeta **bin** se encuentran los scripts para:
  
