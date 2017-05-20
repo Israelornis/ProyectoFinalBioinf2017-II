@@ -4,7 +4,7 @@
 - Por: Israel Moreno-Contreras
 __________
 
-Este repositorio contiene datos tomados genómicos (RADseq) pre-procesados y mapeados en formato .fastq de varios miembros del género *Piranga*, tomados de Manthey et al. (2016)<sup>1 2</sup> disponibles en Dryad ("Jezkova_2014_Dipodomys_Mapped_Reads.tar.bz2") y un análisis de Genética de poblacionesde los mismos
+Este repositorio contiene datos tomados genómicos (RADseq) pre-procesados y mapeados en formato .fastq de varios miembros del género *Piranga*, tomados de Manthey et al. (2016)<sup>1 2</sup> y disponibles en Genbank ("https://www.ncbi.nlm.nih.gov/sra/?term=Piranga"), con algunos outputs de interes y datos descriptivos en Dryad. También cuenta con algunos de inferencia filogenética (Máxima verosimilitud, Parsimonia, y SVD quartets) empleando distintos parametros en ipyrad.
 
 En la carpeta **bin** se encuentran los scripts para:
  
@@ -23,7 +23,7 @@ En la carpeta **data** se encuentra:
 ____
 **Bibliografia**
 
-<sup>1</sup>Jezkova T, Riddle BR, Card DC, Schield DR, Eckstut ME, Castoe TA (2015) Genetic consequences of post-glacial range expansion in two codistributed rodents (genus Dipodomys) depend on ecology and genetic locus. Molecular Ecology 24(1): 83-97. http://dx.doi.org/10.1111/mec.13012
+<sup>1</sup>Manthey JD, Campillo LC, Burns KJ, Moyle RG (2016) Comparison of target-capture and restriction-site associated DNA sequencing for phylogenomics: a test in cardinalid tanagers (Aves, genus: Piranga). Systematic Biology 65(4): 640-650. http://dx.doi.org/10.1093/sysbio/syw005
 
-<sup>2</sup>Jezkova T, Riddle BR, Card DC, Schield DR, Eckstut ME, Castoe TA (2014) Data from: Genetic consequences of post-glacial range expansion in two codistributed rodents (genus Dipodomys) depend on ecology and genetic locus. Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.1nv6k
+<sup>2</sup>Manthey JD, Campillo LC, Burns KJ, Moyle RG (2016) Data from: Comparison of target-capture and restriction-site associated DNA sequencing for phylogenomics: a test in cardinalid tanagers (Aves, genus: Piranga). Dryad Digital Repository. http://dx.doi.org/10.5061/dryad.j5n06
 ___
